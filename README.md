@@ -31,6 +31,7 @@ Everything I create is driven by the love and support of the most important pers
 <div align="center">
 
 ![Kirby](/img/kirby.gif)
+![kibry2](/img/kirby2.gif)
 
 *Keep coding, keep dreaming, keep loving.* ✨
 
