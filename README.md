@@ -29,9 +29,13 @@ Everything I create is driven by the love and support of the most important pers
 ---
 
 <div align="center">
-
-![Kirby](/img/kirby.gif)
 ![kibry2](/img/kirby2.gif)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yumaihiko)
+<!-- Top Languages（compact） -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumaihiko&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yumaihiko)](https://github.com/ryo-ma/github-profile-trophy)
 
 *Keep coding, keep dreaming, keep loving.* ✨
 
